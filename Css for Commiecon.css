@@ -1,0 +1,16 @@
+h1, p, li {font-family: 'Piedra', cursive;color: whitesmoke ;} 
+p, li {font-size: 40px ;}
+
+     
+
+  body{ background-image:
+    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABkCAMAAAD0WI85AAAAYFBMVEXMAADIAAD/1wD/2QD/2wD/3QD/3wD/4QDrmgDebQD0tQD/4wDcaADOFwDgdgDaYQDTOgDysAD2ugDQKwDmiwDvqADlhwDplQD6yADUSgDvowDmggD3wADicgDXVwD80AAd+90MAAAB80lEQVR4nO3Z247qMAwF0DpO0nughN5oaf//LycZOPMy80Q5ioz2EkKFp22cyCnNMgCAj9KeUyd4k7mi1BHeo7SpE7wH3ZZFfEu8K++uo/VeujJ1lkPaRbvmnG2nYj+lznLQuQqtaMc+dY7j5p6ycyd+k2TZybmL79vUMQ6jvhrarnKpcxzmpy0sq6v8PfI8npzlr62g/YgqgvY+fkop2y57sP+gue6Fj5J5C9udMtrqKnWUI2hjta+XIVyNkntCjWZmO/l4rfMldZ6XnTQrZdbHLBms8onzvCj2Qyk9PePPez6KXFx0N6EOpcp/6Ve9i2xJE+vg8LY9KqHCapHTZN512B8Ns3bfldA9N4XItRU2xeopbHjzOMSfan0RWQjNVThiUZmzjX+jxItJZCFxosc3F3pyjXvEaKmFPLma7UDtxEbuvfujJ4vhvLgaZYfUeV7lh/m7lKtlVuG1pQ70oqKu1ZJRMOowGqWuLHK5maxR3XWsVBzyRubzBWq4vvlLzcba2A9WuhN4x0vlVOtwzKJlz41mbe3KykzyDluN1eZxJ+XL2zpdxq292Z8jvRx+Ys7n54e42+No76yy0g4pszXm9w1hlefSHsP5W1/+jtwWnbSlldGfv/zf3wIAAAAAAAAAAAAAAAAAAAAAAAAAAMD/9gUx1RIoNpMZ/AAAAABJRU5ErkJggg==) 
+    ; no-repeat center center fixed; 
+  background-size: cover; text-align: center; }
+  
+
+      
+hr {border-color: whitesmoke; border-width: 8px; max-width: 500px ; ailgn: center;}
+
+.btn {padding: 2rem 3rem ;font-family: 'Piedra', cursive; font-weight: lighter; border-radius: 800px; }
+
